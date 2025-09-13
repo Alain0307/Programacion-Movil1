@@ -5,7 +5,7 @@
 package com.mycompany.prueba;
 
 /**
- *
+ * Alain Cesar Raymundo
  * @author elga0
  */
 public class Prueba {
